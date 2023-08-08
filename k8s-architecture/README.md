@@ -1,0 +1,1 @@
+The architecture ffor deploying prevoiusly created application is shown in picture here.

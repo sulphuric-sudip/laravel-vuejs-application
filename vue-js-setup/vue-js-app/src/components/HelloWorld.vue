@@ -1,0 +1,27 @@
+<template>
+  <div class="hello">
+    <div style="padding:40px;">
+      <h1>
+        Hello from
+        <span style="color:#29558C">HELLO WORLD</span>
+        <span style="color:#AD5353">From Sudip</span>
+      </h1>
+      <p>
+        Sample page for testing.
+      </p>
+    </div>
+  </div>
+</template>
+
+<script>
+export default {
+  name: "HelloWorld",
+  props: {
+    msg: String
+  }
+};
+</script>
+
+<!-- Add "scoped" attribute to limit CSS to this component only -->
+<style scoped>
+</style>
